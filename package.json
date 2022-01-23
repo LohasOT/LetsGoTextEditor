@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abraham-Solis/textEditorGo.git"
+    "url": "git+https://github.com/LohasOT/LetsGoTextEditor.git"
   },
   "bugs": {
-    "url": "https://github.com/Abraham-Solis/textEditorGo/issues"
+    "url": "https://github.com/LohasOT/LetsGoTextEditor/issues"
   },
-  "homepage": "https://github.com/Abraham-Solis/textEditorGo#readme"
+  "homepage": "https://github.com/LohasOT/LetsGoTextEditor#readme"
 }
